@@ -1,2 +1,1 @@
-# learning_AI
-learning about Artificial Intelligence by doing
+This is a repository contains codes and writings referred while learning AI/ML
